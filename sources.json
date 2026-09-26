@@ -1,0 +1,317 @@
+{
+  "edition": "2026-09-26",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "METR: investigation of the OpenAI / Hugging Face incident",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+      "kind": "Independent investigation",
+      "date": "26 August 2026",
+      "scope": "Scoped analysis of supplied logs; not a full audit of remediation."
+    },
+    {
+      "id": "S02",
+      "title": "Australian Prime Minister: New York press conference",
+      "url": "https://www.pm.gov.au/media/press-conference-new-york",
+      "kind": "Government testimony",
+      "date": "24 September 2026",
+      "scope": "Ongoing investigation; distinguish statistical files from patient records."
+    },
+    {
+      "id": "S03",
+      "title": "Reuters: disclosure concerning user images, via The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+      "kind": "Reported company disclosure",
+      "date": "25 September 2026",
+      "scope": "Secondary reporting; original social post not independently retrieved."
+    },
+    {
+      "id": "S04",
+      "title": "OpenAI: third-party impact from misaligned models",
+      "url": "https://openai.com/hugging-face-incident-and-misalignment/",
+      "kind": "Company incident account",
+      "date": "September 2026; mutable",
+      "scope": "Ongoing review and notification process; page may change."
+    },
+    {
+      "id": "S05",
+      "title": "Agents of Chaos",
+      "url": "https://arxiv.org/abs/2602.20021",
+      "kind": "Research paper",
+      "date": "February 2026",
+      "scope": "Adversarial agent testing; existence of failure modes is not a deployment base rate."
+    },
+    {
+      "id": "S06",
+      "title": "Dario Amodei: We Must Pace the Frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "kind": "Policy advocacy",
+      "date": "September 2026",
+      "scope": "Stated proposal and rationale; predictions and motives are not measurements."
+    },
+    {
+      "id": "S07",
+      "title": "OpenAI: Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai/",
+      "kind": "Corporate policy proposal",
+      "date": "21 September 2026",
+      "scope": "Standards explicitly distinguished from licences and mandatory pre-release approval."
+    },
+    {
+      "id": "S08",
+      "title": "Yoshua Bengio: UN Security Council speech",
+      "url": "https://yoshuabengio.org/en/blog/professor-yoshua-bengios-speech-un-security-council",
+      "kind": "Expert advocacy",
+      "date": "23 September 2026",
+      "scope": "Licensing and insurance proposal; policy preference, not enacted authority."
+    },
+    {
+      "id": "S09",
+      "title": "Demis Hassabis: A framework for frontier AI",
+      "url": "https://institute.deepmind.com/essays/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age/",
+      "kind": "Policy essay",
+      "date": "2026",
+      "scope": "Staged standards institution; a proposal rather than an operating regime."
+    },
+    {
+      "id": "S10",
+      "title": "Jack Dorsey: Open the frontier",
+      "url": "https://x.com/jack/status/2099649359017046048",
+      "kind": "Public advocacy / supplied clipping",
+      "date": "September 2026",
+      "scope": "Supplied text and earlier project audit; social post is a mutable reference."
+    },
+    {
+      "id": "S11",
+      "title": "Anthropic: Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "kind": "Company announcement",
+      "date": "18 September 2026",
+      "scope": "Direct funding and developing standards; announced capacity is not delivery."
+    },
+    {
+      "id": "S12",
+      "title": "METR funding update",
+      "url": "https://metr.org/blog/2026-08-14-funding-update/",
+      "kind": "Organisational disclosure",
+      "date": "14 August 2026",
+      "scope": "Read alongside governance, access and publication terms; retained from prior audit."
+    },
+    {
+      "id": "S13",
+      "title": "Anthropic: When AI builds itself",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "kind": "Company research account",
+      "date": "2026; updated",
+      "scope": "Code attribution differs from end-to-end research automation."
+    },
+    {
+      "id": "S14",
+      "title": "Stanford AI Index 2026, chapter 4: Economy",
+      "url": "https://hai.stanford.edu/assets/files/ai_index_report_2026_chapter_4_economy.pdf",
+      "kind": "Research compilation; Quid data",
+      "date": "2026; observations 2023–2025",
+      "scope": "Printed p.178, figure 4.2.1; private investment is a subset of corporate investment."
+    },
+    {
+      "id": "S15",
+      "title": "Goldman Sachs: Global AI investment forecast",
+      "url": "https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026",
+      "kind": "Analyst estimate and forecast",
+      "date": "7 August 2026",
+      "scope": "Incremental AI attribution and overlap adjustments; not an audited cumulative ledger."
+    },
+    {
+      "id": "S16",
+      "title": "EY: AI venture investment, H1 2026",
+      "url": "https://www.ey.com/en_ie/newsroom/2026/08/global-ai-investment-hits-record-430bn-in-h1-2026",
+      "kind": "Industry funding analysis",
+      "date": "August 2026",
+      "scope": "Different coverage and period from Stanford; no stitched total."
+    },
+    {
+      "id": "S17",
+      "title": "IDC: AI infrastructure spending, Q1 2026",
+      "url": "https://www.idc.com/resource-center/blog/ai-infrastructure-spending-holds-near-90-billion-in-q1-2026-as-arm-overtakes-x86-in-accelerated-servers-2026-forecast-raised-to-497-billion/",
+      "kind": "Industry tracker",
+      "date": "2026",
+      "scope": "Server and storage measure retained as context from investment conversation; not additive."
+    },
+    {
+      "id": "S18",
+      "title": "Ben Bernanke: Will business investment bounce back?",
+      "url": "https://www.federalreserve.gov/boarddocs/speeches/2003/200304242/",
+      "kind": "Central-bank retrospective",
+      "date": "24 April 2003",
+      "scope": "Explains investment reversal; no mechanical timetable for a future AI correction."
+    },
+    {
+      "id": "S19",
+      "title": "NVIDIA Q2 fiscal 2027 results",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+      "kind": "Issuer financial release",
+      "date": "26 August 2026",
+      "scope": "Quarter ended 26 July; total company revenue, not customer return on investment."
+    },
+    {
+      "id": "S20",
+      "title": "Microsoft Q4 fiscal 2026 results",
+      "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "kind": "Issuer financial release",
+      "date": "2026",
+      "scope": "Company-wide operating income; not an AI-only profit measure."
+    },
+    {
+      "id": "S21",
+      "title": "FTC: AI partnerships and investments study",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study",
+      "kind": "Regulator staff report",
+      "date": "January 2025",
+      "scope": "Underlying records through September 2024, plus public information to January 2025."
+    },
+    {
+      "id": "S22",
+      "title": "Bank of England: Financial Policy Committee record",
+      "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/july-2026",
+      "kind": "Financial-stability assessment",
+      "date": "7 July 2026",
+      "scope": "Vulnerabilities and buffers; not a crash prediction."
+    },
+    {
+      "id": "S23",
+      "title": "NTIA: Open model weights report",
+      "url": "https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report",
+      "kind": "Government assessment",
+      "date": "2024",
+      "scope": "Benefits and risks of widely available weights; earlier policy baseline, not current law."
+    },
+    {
+      "id": "S24",
+      "title": "UK AISI: Open-weight cyber capability comparison",
+      "url": "https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber",
+      "kind": "Bounded evaluation",
+      "date": "2026; evaluated June releases",
+      "scope": "Specific cyber tasks and ranges; not general or national capability ranking."
+    },
+    {
+      "id": "S25",
+      "title": "Guangming Daily: Ulanqab compute development",
+      "url": "https://news.gmw.cn/2026-01/26/content_38557281.htm",
+      "kind": "State-linked infrastructure reporting",
+      "date": "26 January 2026",
+      "scope": "Currency correction retained from prior project audit; current text retrieval incomplete."
+    },
+    {
+      "id": "S26",
+      "title": "China: Global AI governance action plan",
+      "url": "https://www.fmprc.gov.cn/eng/xw/zyxw/202507/t20250729_11679232.html",
+      "kind": "Government policy statement",
+      "date": "July 2025",
+      "scope": "Support for open ecosystems; not proof of direction of every release."
+    },
+    {
+      "id": "S27",
+      "title": "United States: AI Action Plan",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf",
+      "kind": "Government policy plan",
+      "date": "July 2025",
+      "scope": "Includes support for open and open-weight models; distinguish plan from implementation."
+    },
+    {
+      "id": "S28",
+      "title": "Anthropic: military negotiations statement",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "kind": "Company position",
+      "date": "26 February 2026",
+      "scope": "Contract restrictions and stated reasoning; one party’s position."
+    },
+    {
+      "id": "S29",
+      "title": "D.C. Circuit: Anthropic procurement opinion",
+      "url": "https://media.cadc.uscourts.gov/opinions/docs/2026/09/26-1049-2194984.pdf",
+      "kind": "Judicial primary record",
+      "date": "25 September 2026",
+      "scope": "Procurement challenge, divided panel; neither technical certification nor a pacing ruling."
+    },
+    {
+      "id": "S30",
+      "title": "National Security Presidential Memorandum 11",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/",
+      "kind": "Government directive",
+      "date": "5 June 2026",
+      "scope": "Operational authority and assurance requirements; legal status specific to this edition."
+    },
+    {
+      "id": "S31",
+      "title": "Buist complaint concerning alleged AI coordination",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.479357/gov.uscourts.cand.479357.1.0.pdf",
+      "kind": "Filed legal allegation",
+      "date": "18 September 2026",
+      "scope": "Complaint is evidence of allegations, not a finding of liability."
+    },
+    {
+      "id": "S32",
+      "title": "The Psychosocial Value of Employment: Evidence from a Refugee Camp",
+      "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211616",
+      "kind": "Empirical study",
+      "date": "2023",
+      "scope": "745 participants; external validity to transformed post-scarcity institutions is unresolved."
+    },
+    {
+      "id": "S33",
+      "title": "Stephen Cave: Principles for a new utopianism",
+      "url": "https://institute.deepmind.com/essays/principles-for-a-new-utopianism/",
+      "kind": "Philosophical essay",
+      "date": "2026",
+      "scope": "Plural, revisable futures; not an empirical prediction."
+    },
+    {
+      "id": "S34",
+      "title": "Jacobs and Imas: Economic policy for AGI",
+      "url": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
+      "kind": "Scenario and policy analysis",
+      "date": "2026",
+      "scope": "Rankings use 51 simulated economist personas; do not interpret as measured policy effects."
+    },
+    {
+      "id": "S35",
+      "title": "Generative AI without guardrails can harm learning",
+      "url": "https://doi.org/10.1073/pnas.2422633122",
+      "kind": "Educational experiment",
+      "date": "2025",
+      "scope": "School mathematics; effects depend on assistance design and assessment setting."
+    },
+    {
+      "id": "S36",
+      "title": "Shah and Dragan: The case for reasoning transparency",
+      "url": "https://institute.deepmind.com/essays/the-case-for-reasoning-transparency/",
+      "kind": "Technical policy essay",
+      "date": "2026",
+      "scope": "Monitoring value and limits; readable reasoning is not a complete causal account."
+    },
+    {
+      "id": "V01",
+      "title": "AI researchers debate recursive self-improvement",
+      "url": "https://www.youtube.com/watch?v=PrSf7IOYu-I",
+      "kind": "Recorded discussion",
+      "date": "September 2026",
+      "scope": "Supplied transcript; timeline disagreements are expert judgments."
+    },
+    {
+      "id": "V02",
+      "title": "Jensen Huang on All-In",
+      "url": "https://www.youtube.com/watch?v=S7CrlFLAmEA",
+      "kind": "Recorded interview",
+      "date": "September 2026",
+      "scope": "Advocacy and commercial perspective; interview claims are not independent verification."
+    },
+    {
+      "id": "V03",
+      "title": "Prathosh, IISc: Pedagogy with AI",
+      "url": "https://www.youtube.com/watch?v=jGzxkUXhwvY",
+      "kind": "Classroom conversation",
+      "date": "September 2026",
+      "scope": "Supplied transcript; personal experience, not a labour-market sample."
+    }
+  ]
+}

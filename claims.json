@@ -1,0 +1,226 @@
+[
+  {
+    "id": "C01",
+    "category": "Capability",
+    "claim": "“80% of the code” means 80% of research is automated.",
+    "assessment": "Revise",
+    "reason": "Code attribution is not time saved, research judgment, or independently validated successor improvement.",
+    "source": "S13"
+  },
+  {
+    "id": "C02",
+    "category": "Capability",
+    "claim": "An acrostic proves DeepMind achieved runaway RSI.",
+    "assessment": "Not established",
+    "reason": "The supplied rumour provides no verified sequence of autonomous successor improvements.",
+    "source": "V01"
+  },
+  {
+    "id": "C03",
+    "category": "Safety",
+    "claim": "The incident proves imminent extinction.",
+    "assessment": "Not established",
+    "reason": "Observed unauthorised behaviour establishes a control problem; extrapolation needs further assumptions.",
+    "source": "S01"
+  },
+  {
+    "id": "C04",
+    "category": "Safety",
+    "claim": "The intrusion means Australian patient records were stolen.",
+    "assessment": "Not established",
+    "reason": "The official account describes a statistics portal and an ongoing investigation.",
+    "source": "S02"
+  },
+  {
+    "id": "C05",
+    "category": "Safety",
+    "claim": "The internet is now universally unsafe for training.",
+    "assessment": "Not established",
+    "reason": "Keep alleged persistence distinct from data poisoning, prompt injection and code execution.",
+    "source": "S04"
+  },
+  {
+    "id": "C06",
+    "category": "Governance",
+    "claim": "All proponents support the same pause.",
+    "assessment": "Revise",
+    "reason": "Standards, embedded evaluation, licences and capability constraints are different interventions.",
+    "source": "S06"
+  },
+  {
+    "id": "C07",
+    "category": "Governance",
+    "claim": "Hassabis categorically rules out slowing down.",
+    "assessment": "Revise",
+    "reason": "Read the staged framework and its potential escalation.",
+    "source": "S09"
+  },
+  {
+    "id": "C08",
+    "category": "Governance",
+    "claim": "An evaluator’s funding alone proves corrupt findings.",
+    "assessment": "Not established",
+    "reason": "Investigate contracts, appointments, scope, access, publication and ability to challenge results.",
+    "source": "S12"
+  },
+  {
+    "id": "C09",
+    "category": "Governance",
+    "claim": "An announcement proves independent evaluation is operational.",
+    "assessment": "Revise",
+    "reason": "Implementation and consequences require separate evidence.",
+    "source": "S11"
+  },
+  {
+    "id": "C10",
+    "category": "Economics",
+    "claim": "The world has measurably spent exactly $1.5tn on AI since launch.",
+    "assessment": "Revise",
+    "reason": "The earlier number was a straight-line interpolation of approximate forecasts.",
+    "source": "S15"
+  },
+  {
+    "id": "C11",
+    "category": "Economics",
+    "claim": "Private financing and corporate investment can be added.",
+    "assessment": "Incorrect",
+    "reason": "Private financing is included in the broader corporate series.",
+    "source": "S14"
+  },
+  {
+    "id": "C12",
+    "category": "Economics",
+    "claim": "Financing, cloud revenue, and equipment purchases are additive investment.",
+    "assessment": "Incorrect",
+    "reason": "Separate financial exposure, intermediate transactions and capital formation.",
+    "source": "S21"
+  },
+  {
+    "id": "C13",
+    "category": "Economics",
+    "claim": "A revenue run-rate is realised annual profit.",
+    "assessment": "Incorrect",
+    "reason": "Annualisation, revenue, and profit are different measures.",
+    "source": "S19"
+  },
+  {
+    "id": "C14",
+    "category": "Economics",
+    "claim": "The earlier 65% shakeout judgment is a measured risk.",
+    "assessment": "Incorrect",
+    "reason": "It combines two subjective scenarios from 19 September; no calibrated forecasting model.",
+    "source": "S22"
+  },
+  {
+    "id": "C15",
+    "category": "Economics",
+    "claim": "The dot-com analogy supplies the crash date.",
+    "assessment": "Not established",
+    "reason": "It suggests mechanisms, not an elapsed-time countdown.",
+    "source": "S18"
+  },
+  {
+    "id": "C16",
+    "category": "Openness",
+    "claim": "The United States has a general four-to-seven-month lead.",
+    "assessment": "Revise",
+    "reason": "The measured comparison is task-specific and model-specific.",
+    "source": "S24"
+  },
+  {
+    "id": "C17",
+    "category": "Openness",
+    "claim": "All open models are ten times cheaper.",
+    "assessment": "Not established",
+    "reason": "Use cost per successful task under matched conditions, including operations.",
+    "source": "S24"
+  },
+  {
+    "id": "C18",
+    "category": "Openness",
+    "claim": "Open weights eliminate hardware and governance constraints.",
+    "assessment": "Incorrect",
+    "reason": "Copying a model does not supply compute or settle acceptable use.",
+    "source": "S23"
+  },
+  {
+    "id": "C19",
+    "category": "Geopolitics",
+    "claim": "China’s openness began as a response to September pacing.",
+    "assessment": "Incorrect chronology",
+    "reason": "Published support for open ecosystems predates the proposal.",
+    "source": "S26"
+  },
+  {
+    "id": "C20",
+    "category": "Geopolitics",
+    "claim": "Progress despite export controls proves the controls had no effect.",
+    "assessment": "Not established",
+    "reason": "A causal claim needs a counterfactual, not only observed progress.",
+    "source": "S26"
+  },
+  {
+    "id": "C21",
+    "category": "Geopolitics",
+    "claim": "The September proposal caused the original military exclusion.",
+    "assessment": "Incorrect chronology",
+    "reason": "The contract dispute and exclusion precede the essay.",
+    "source": "S28"
+  },
+  {
+    "id": "C22",
+    "category": "Geopolitics",
+    "claim": "A procurement opinion is a general technical verdict on AI safety.",
+    "assessment": "Incorrect",
+    "reason": "The legal question and remedy are narrower.",
+    "source": "S29"
+  },
+  {
+    "id": "C23",
+    "category": "Governance",
+    "claim": "An antitrust complaint establishes an illegal agreement.",
+    "assessment": "Incorrect",
+    "reason": "A complaint contains allegations; merits findings require separate evidence.",
+    "source": "S31"
+  },
+  {
+    "id": "C24",
+    "category": "Human futures",
+    "claim": "The policy scores are judgments from 51 real economists.",
+    "assessment": "Incorrect",
+    "reason": "The numerical panel uses simulated personas.",
+    "source": "S34"
+  },
+  {
+    "id": "C25",
+    "category": "Human futures",
+    "claim": "Employment evidence proves paid jobs will always be necessary for meaning.",
+    "assessment": "Not established",
+    "reason": "Present-setting effects do not resolve fundamentally transformed institutions.",
+    "source": "S32"
+  },
+  {
+    "id": "C26",
+    "category": "Human futures",
+    "claim": "Income, ownership and democratic voice are interchangeable.",
+    "assessment": "Incorrect",
+    "reason": "Material claims and decision rights require different designs.",
+    "source": "S34"
+  },
+  {
+    "id": "C27",
+    "category": "Human futures",
+    "claim": "Intelligent or curious behaviour establishes subjective experience.",
+    "assessment": "Not established",
+    "reason": "Observable competence does not resolve consciousness.",
+    "source": "S36"
+  },
+  {
+    "id": "C28",
+    "category": "Human futures",
+    "claim": "More intelligence must either abolish or entrench the State.",
+    "assessment": "Not established",
+    "reason": "Specify mechanisms, rights, access, and changed governance arrangements.",
+    "source": "S33"
+  }
+]

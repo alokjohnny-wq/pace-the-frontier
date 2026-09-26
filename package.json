@@ -1,0 +1,1 @@
+{"name":"pace-the-frontier","version":"1.0.0","private":true,"description":"An evidence-led visual essay on frontier AI, investment, power and human freedom.","scripts":{"build":"node build.cjs"},"devDependencies":{"marked":"17.0.5"},"engines":{"node":">=20"}}
