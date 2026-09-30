@@ -2,7 +2,7 @@
 
 *The race, the money, and the right to decide the future of AI.*
 
-Research edition: **26 September 2026**. An inquiry curated by Alok Sharma, with AI-assisted research and synthesis.
+Research edition: **26 September 2026**. An inquiry curated by Alok Sharma, with AI-assisted research and synthesis. Editorial revision: **30 September 2026**, expanding the analysis of AI, state power, and citizens’ practical ability to exercise rights. The evidence cutoff remains 26 September 2026.
 
 ## 01 | A technology can succeed while its story fails {#opening}
 
@@ -203,11 +203,33 @@ Better evidence would include actual spending constraints, independently verifie
 
 The nuclear analogy helps with externalities, verification, escalation, and international coordination. It transfers poorly when it ignores cheap copying of software, broad civilian use, private development, and the interaction between AI and research itself. Compute infrastructure still provides physical constraints; AI is not magically beyond governance. And the nuclear comparison should not erase nuclear medicine or civilian energy by describing nuclear technology as only a weapon.
 
-### The State is also a variable
+### Could AI diminish the State? {#state-and-citizen}
 
-The conversations explore whether abundant intelligence could diminish the State. It could reduce some information advantages: citizens might analyse budgets, contest official narratives, and coordinate services more easily. It could also make surveillance, administration, and enforcement cheaper. Fewer government employees would not necessarily mean less state power.
+The State can be understood as a machine with interacting parts: agencies, courts, political groups, and the interests and public pressures that shape their operation. Its power emerges through rules, routines, resources, incentives, and relationships among those parts. The question is how that machinery could change when expertise and the capacity to organise become widely accessible.
 
-Treating “the State” as one mind misses competing agencies, courts, political groups, and public interests. The sharper question is which functions become less coercive or more accountable—and which become harder to resist. Abandoning today’s institutional assumptions is intellectually legitimate. Replacing them requires mechanisms for resolving disagreement, protecting rights, and managing shared resources.
+**Possibility.** Accessible, reliable AI could diminish some foundations of state power by making people less dependent on official interpretation, scarce expertise, and established intermediaries. That possibility deserves to be examined through concrete mechanisms:
+
+- **Understanding laws, budgets, contracts, and official claims.** A person could compare a decision with the rules invoked to justify it, trace how a budget allocates resources, or identify questions concealed by technical language. Expertise that once required money or privileged access could become easier to obtain.
+- **Detecting inconsistencies and investigating abuses.** Citizens, journalists, and community groups could examine records, compare accounts, connect dispersed evidence, and formulate challenges that an isolated person would struggle to prepare. Suspected inconsistencies would still need verification; AI could lower the cost of finding and checking them.
+- **Organising collective action.** Translation, research, drafting, coordination, and comparison of proposals could become less expensive. People with a shared problem could assemble evidence and act together with less dependence on established political or professional intermediaries.
+- **Coordinating services through other institutions.** Communities, cooperatives, associations, or new arrangements could use accessible expertise to plan and administer some services. Where such arrangements work and people can meaningfully choose them, dependence on state provision could decrease.
+- **Making specialist knowledge practically usable.** Help interpreting a procedure, preparing a complaint, understanding a contract, or evaluating an official explanation could give people greater ability to act on knowledge—not simply more information to read.
+
+These possibilities could reduce the distance between **having formal rights and being able to exercise them**. A right to challenge a decision offers limited practical protection when the process is incomprehensible, advice is unaffordable, or assembling evidence takes more time than someone can spare. Lowering those barriers could change the relationship between a person and the institutions governing their life.
+
+Imagine residents trying to understand why their community repeatedly loses access to a promised service. Affordable analytical help could let them examine the rules, compare spending with commitments, document the pattern, and coordinate a response. They would still need trustworthy records and a route through which their challenge could matter. The important change is that the cost of investigating and organising might cease to make the right effectively unusable. This is a hypothetical mechanism, not a reported outcome.
+
+### Diminished in which sense?
+
+State power has several dimensions. **Reduced informational advantage** could make official claims easier to question. **Reduced arbitrary discretion** could make decisions more accountable. **Reduced dependence on state provision** could transfer particular functions to other institutions. These changes need not occur together, and none by itself establishes the disappearance of the State or the loss of its coercive and fiscal powers.
+
+Some changes could strengthen public institutions while diminishing their power over an individual. A more effective appeals process, for example, could improve institutional reliability and reduce an agency’s ability to act without challenge. The relevant measure is the citizen’s practical freedom and bargaining position, alongside the institution’s ability to fulfil its legitimate functions. Staff numbers or administrative efficiency alone cannot capture that relationship.
+
+**Conditions.** The emancipatory possibility depends on people being able to afford, inspect, and use reliable tools; obtain relevant records; protect sensitive inquiry; and turn analysis into action. Organisation, resources, and effective remedies still matter. If citizens receive explanations but cannot contest decisions, the information gap may narrow without a corresponding redistribution of power. If their tools are controlled by a few providers, dependence may move to a different gatekeeper.
+
+AI could also make surveillance, administration, and enforcement cheaper. That countervailing possibility does not erase the mechanisms above: it makes the distribution of access, control, and rights decisive. Different parts of the state machinery could gain or lose power at the same time, while organised citizens become more capable too.
+
+The inquiry therefore remains open to changes deeper than making today’s institutions run more efficiently. Some functions might become unnecessary, move to other institutions, or be organised in ways we have not yet developed. We should examine how those arrangements could resolve disagreements, protect rights, and manage shared resources, without assuming that those tasks must retain their current institutional form. The question is whether widely available intelligence could give people a greater ability to understand, challenge, reshape, and, where workable, replace the machinery on which they depend.
 
 ## 07 | Abundance opens a question about freedom {#freedom}
 
