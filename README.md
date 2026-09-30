@@ -1,5 +1,8 @@
 # Who gets to set the pace?
 
+**New · 30 September 2026:** [A monster duopoly? — A sourced audit of the $10T AI thesis](https://alokjohnny-wq.github.io/pace-the-frontier/monster-duopoly/). [Report files and method](monster-duopoly/README.md).
+
+
 **The race, the money, and the right to decide the future of AI.**
 
 [Read the published visual essay](https://alokjohnny-wq.github.io/pace-the-frontier/) · [Explore the evidence desk](https://alokjohnny-wq.github.io/pace-the-frontier/evidence.html)
