@@ -1,0 +1,236 @@
+[
+  {
+    "id": "S01",
+    "title": "Bindu Reddy: original duopoly post",
+    "url": "https://x.com/bindureddy/status/2105175711170646404",
+    "date": "2026-09-30",
+    "kind": "Public statement",
+    "scope": "Original thesis verified in browser. Establishes what was said, not whether it is true. View count displayed as 2m at retrieval; rounded and changeable.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S02",
+    "title": "Bindu Reddy: Gemini reply",
+    "url": "https://x.com/bindureddy/status/2105185025771933844",
+    "date": "2026-09-30",
+    "kind": "Public statement",
+    "scope": "Exact reply verified in browser; no benchmark or time window supplied.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S03",
+    "title": "Bindu Reddy: Grok reply",
+    "url": "https://x.com/bindureddy/status/2105185234841129404",
+    "date": "2026-09-30",
+    "kind": "Public statement",
+    "scope": "Exact comparison with Grok 4.5 verified in browser.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S04",
+    "title": "Bindu Reddy: China and Luna reply",
+    "url": "https://x.com/bindureddy/status/2105180015298220342",
+    "date": "2026-09-30",
+    "kind": "Public statement",
+    "scope": "Verified in browser. DeepSeek version, effort, task and share denominator are unspecified.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S05",
+    "title": "Nirjar Bhatt: response to the original post",
+    "url": "https://x.com/BhattNirjar/status/2105179351016784198",
+    "date": "2026-09-30",
+    "kind": "Public statement",
+    "scope": "Verified in browser. This is the critic’s post, not Bindu Reddy’s reply.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S06",
+    "title": "OpenAI: introducing GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "date": "2026-09-22",
+    "kind": "Company release",
+    "scope": "Release timing. Does not disclose a complete model-development timeline.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S07",
+    "title": "OpenAI: introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "date": "2026-09-29",
+    "kind": "Company release",
+    "scope": "Price and task-performance claims; vendor-selected evaluations have scope limits.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S08",
+    "title": "OpenAI API: GPT-6.1 Sol",
+    "url": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+    "date": "Observed 2026-09-30",
+    "kind": "Product documentation",
+    "scope": "Standard input/output pricing; pricing modes and context length matter.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S09",
+    "title": "OpenAI API: model comparison",
+    "url": "https://developers.openai.com/api/docs/models/compare",
+    "date": "Observed 2026-09-30",
+    "kind": "Product documentation",
+    "scope": "Astra standard token prices used for the like-for-like comparison.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S10",
+    "title": "GPT-6.1 Sol system card addendum",
+    "url": "https://deploymentsafety.openai.com/gpt-6-1-sol",
+    "date": "2026-09-29",
+    "kind": "Company safety evaluation",
+    "scope": "Section 9: below High in AI self-improvement. Not an independent ASI test or disclosure of all private systems.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S11",
+    "title": "GPT-6 Astra system card",
+    "url": "https://deploymentsafety.openai.com/gpt-6-astra",
+    "date": "September 2026; updated",
+    "kind": "Company safety evaluation",
+    "scope": "Preparedness assessment also places Astra below High in AI self-improvement.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S12",
+    "title": "Artificial Analysis: GPT-6.1 Sol evaluation",
+    "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+    "date": "2026-09-29",
+    "kind": "Independent evaluator",
+    "scope": "Search-indexed evaluator article: 52 vs 53 index scores, $0.72 vs $3.26 task cost. Direct article retrieval failed; corroborating leaderboard checked.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S13",
+    "title": "Artificial Analysis: model leaderboard",
+    "url": "https://artificialanalysis.ai/leaderboards/models",
+    "date": "Snapshot 2026-09-30",
+    "kind": "Independent evaluator",
+    "scope": "Selected configurations, index v4.3.2. Dynamic page; score and cost observations saved in data.csv. Not market shares.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S14",
+    "title": "Artificial Analysis: SpaceXAI / Grok comparison",
+    "url": "https://artificialanalysis.ai/models/creators/xai",
+    "date": "Snapshot 2026-09-30",
+    "kind": "Independent evaluator",
+    "scope": "Current same-index comparison: Grok 4.7 high 46, Grok 4.5 high 39.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S15",
+    "title": "Artificial Analysis: benchmarking Grok 4.7",
+    "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+    "date": "2026-09-21",
+    "kind": "Independent evaluator",
+    "scope": "Aggregate gains coexist with regressions on particular tasks versus Grok 4.6.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S16",
+    "title": "Artificial Analysis: GPT-6 Luna vs DeepSeek V4.1 Flash",
+    "url": "https://artificialanalysis.ai/models/releases/comparisons/gpt-6-luna-vs-deepseek-v4-1-flash",
+    "date": "Snapshot 2026-09-30",
+    "kind": "Independent evaluator",
+    "scope": "Max-effort comparison used, with explicit version choice because the reply is ambiguous.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S17",
+    "title": "Artificial Analysis: methodology",
+    "url": "https://artificialanalysis.ai/methodology",
+    "date": "Observed 2026-09-30",
+    "kind": "Evaluation method",
+    "scope": "Cost per task includes workload token consumption and caching; it is not simply a token-price ratio.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S18",
+    "title": "Google: Gemini 3.8 Flash and Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "date": "2026-09-02",
+    "kind": "Company release",
+    "scope": "Recent release cadence and model-refinement loops, as described by Google. Vendor claims, not proof of ASI.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S19",
+    "title": "Menlo Ventures: 2025 enterprise AI report",
+    "url": "https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/",
+    "date": "December 2025",
+    "kind": "Survey and market estimates",
+    "scope": "Historical U.S.-enterprise-oriented estimate; 495 decision-makers surveyed Nov 7–25, 2025. Investor publisher. Not September 2026 global share.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S20",
+    "title": "OpenAI: funding round announcement",
+    "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+    "date": "2026-03-31",
+    "kind": "Company financing disclosure",
+    "scope": "Dated $852B post-money round; compute partner disclosures. Not a current public-market capitalization.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S21",
+    "title": "Anthropic: Series H announcement",
+    "url": "https://www.anthropic.com/news/series-h",
+    "date": "2026-05-28",
+    "kind": "Company financing disclosure",
+    "scope": "Dated $965B post-money round and May run-rate disclosure. Not a live valuation.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S22",
+    "title": "Axios: OpenAI revenue reporting",
+    "url": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
+    "date": "2026-09-29",
+    "kind": "Reported financial estimate",
+    "scope": "Unaudited reporting, kept separate from primary financing disclosures.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S23",
+    "title": "Anthropic: Amazon compute expansion",
+    "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "date": "2026-04-20",
+    "kind": "Company infrastructure disclosure",
+    "scope": "Up to 5GW capacity and more than $100B commitment over ten years; commitments are not delivered capacity or expenditure already incurred.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S24",
+    "title": "IEA: Key Questions on Energy and AI, executive summary",
+    "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+    "date": "2026 outlook; observed 2026-09-30",
+    "kind": "Energy analysis and projections",
+    "scope": "485 TWh in 2025 to projected 950 TWh in 2030; all data centres, not AI-only electricity. Projection, not a measured future outcome.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S25",
+    "title": "Abacus.AI: company and leadership",
+    "url": "https://api.abacus.ai/about",
+    "date": "Observed 2026-09-30",
+    "kind": "Company biography",
+    "scope": "CEO/co-founder role and professional background. Does not establish access to unpublished lab results.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S26",
+    "title": "Abacus.AI: Bindu Reddy and product positioning",
+    "url": "https://abacus.ai/bindu-reddy",
+    "date": "Observed 2026-09-30",
+    "kind": "Company product positioning",
+    "scope": "RouteLLM and agent-platform positioning. Relevant business context, not evidence of a private motive.",
+    "accessed": "2026-09-30"
+  }
+]

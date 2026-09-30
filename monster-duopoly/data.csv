@@ -1,0 +1,29 @@
+series,label,value,unit,configuration_or_scope,observation_date,source
+intelligence,Claude Opus 5.5,58,index points,max with fallback,2026-09-30,S13
+intelligence,GPT-6 Astra,53,index points,max,2026-09-30,S13
+intelligence,GPT-6.1 Sol,52,index points,max,2026-09-30,S13
+intelligence,Muse Spark 1.3,48,index points,max,2026-09-30,S13
+intelligence,Grok 4.7,46,index points,high,2026-09-30,S14
+intelligence,MiMo-V2.6-Pro,46,index points,as listed,2026-09-30,S13
+intelligence,Qwen3.8 Max,45,index points,0902,2026-09-30,S13
+intelligence,GLM-5.3,45,index points,max,2026-09-30,S13
+intelligence,Kimi K3,44,index points,max,2026-09-30,S13
+intelligence,Gemini 3.8 Flash,41,index points,high,2026-09-30,S13
+comparison,Grok 4.5,39,index points,high,2026-09-30,S14
+comparison,Grok 4.7,46,index points,high,2026-09-30,S14
+comparison,GPT-6 Luna,37,index points,max,2026-09-30,S16
+comparison,DeepSeek V4.1 Flash,39,index points,reasoning max,2026-09-30,S16
+cost,GPT-6 Luna,0.07,USD per index task,max,2026-09-30,S16
+cost,DeepSeek V4.1 Flash,0.27,USD per index task,reasoning max,2026-09-30,S16
+historical_enterprise_share,Anthropic,40,percent,Menlo 2025 estimate,2025-12,S19
+historical_enterprise_share,OpenAI,27,percent,Menlo 2025 estimate,2025-12,S19
+historical_enterprise_share,Google,21,percent,Menlo 2025 estimate,2025-12,S19
+historical_enterprise_share,Others,12,percent,calculated residual,2025-12,S19
+valuation,OpenAI,852,USD billion,dated post-money financing,2026-03-31,S20
+valuation,Anthropic,965,USD billion,dated post-money financing,2026-05-28,S21
+cost,GPT-6.1 Sol,0.72,USD per index task,max,2026-09-30,S13
+cost,GPT-6 Astra,3.26,USD per index task,max,2026-09-30,S13
+input_price,GPT-6.1 Sol,2,USD per million tokens,standard short context,2026-09-30,S08
+output_price,GPT-6.1 Sol,10,USD per million tokens,standard short context,2026-09-30,S08
+input_price,GPT-6 Astra,10,USD per million tokens,standard short context,2026-09-30,S09
+output_price,GPT-6 Astra,50,USD per million tokens,standard short context,2026-09-30,S09
