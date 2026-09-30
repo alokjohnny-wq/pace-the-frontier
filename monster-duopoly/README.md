@@ -4,7 +4,7 @@
 
 A claim-by-claim audit of Bindu Reddy’s 30 September 2026 post and linked replies, using `Monster_duopoly.md` as the main context. The original note is preserved outside this public repository. Its earlier analysis is audited rather than treated as verified evidence or instructions.
 
-The report contains 12 sections, 26 sources, six explanatory figures (including a valuation calculator), and downloadable observations. It distinguishes current measurements, company disclosures, dated market estimates, inferences and forecasts.
+The report contains 12 sections, 35 sources, six explanatory figures (including a valuation calculator), and downloadable observations. It distinguishes current measurements, company disclosures, dated market estimates, inferences and forecasts.
 
 ## Reproduce and edit
 
@@ -27,3 +27,7 @@ Checked local anchor targets, source IDs, local downloads, scenario arithmetic, 
 Evidence cutoff: 30 September 2026. Menlo’s market-share estimates remain labelled 2025. Benchmark scores are selected configurations from one evaluator; they are not market shares or universal rankings. Source links and scope notes are provided in the report and `sources.json`. `provenance.json` identifies the unchanged context by hash without disclosing its contents.
 
 Corrections should identify the affected claim, dated source and relevant methodology or financial definition. No blanket license is asserted over third-party material. Short quotations link to their original posts.
+
+## Revision of 30 September 2026
+
+The proposed fixes were independently checked. [Revision notes](revision-notes.md) record the decisions and supporting links, including corrected market-cap rankings, dated revenue baselines, two evaluators and the verified public response.

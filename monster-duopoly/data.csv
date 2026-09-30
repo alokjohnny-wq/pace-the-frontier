@@ -27,3 +27,13 @@ input_price,GPT-6.1 Sol,2,USD per million tokens,standard short context,2026-09-
 output_price,GPT-6.1 Sol,10,USD per million tokens,standard short context,2026-09-30,S08
 input_price,GPT-6 Astra,10,USD per million tokens,standard short context,2026-09-30,S09
 output_price,GPT-6 Astra,50,USD per million tokens,standard short context,2026-09-30,S09
+comparison,Gemini 3.1 Pro Preview,30,index points,as listed,2026-09-30,S13
+arena_net_improvement,Grok 4.7,4.02,percent,xHigh; 95% half-width 1.57pp; table dated 2026-09-28,2026-09-30,S30
+arena_net_improvement,Grok 4.5,1.25,percent,effort unspecified; 95% half-width 0.95pp; table dated 2026-09-28,2026-09-30,S30
+arena_net_improvement,DeepSeek V4.1 Flash,3.86,percent,Max; 95% half-width 0.57pp; table dated 2026-09-28,2026-09-30,S30
+arena_net_improvement,GPT 6 Luna,1.59,percent,Max; 95% half-width 1.77pp; table dated 2026-09-28,2026-09-30,S30
+public_equity_value,Nvidia,5.58,USD trillion,U.S.-listed snapshot; not synchronized closing prices,2026-09-30,S33
+public_equity_value,Apple,4.93,USD trillion,U.S.-listed snapshot; not synchronized closing prices,2026-09-30,S33
+public_equity_value,Alphabet,4.29,USD trillion,U.S.-listed snapshot; not synchronized closing prices,2026-09-30,S33
+annualized_revenue_floor,Anthropic,47,USD billion,disclosure says exceeded; May floor not September revenue,2026-05-28,S21
+annualized_revenue_approximation,OpenAI,70,USD billion,reported nearly; unaudited not recognized annual sales,2026-09-29,S22

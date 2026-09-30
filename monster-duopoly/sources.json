@@ -104,7 +104,7 @@
     "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
     "date": "2026-09-29",
     "kind": "Independent evaluator",
-    "scope": "Search-indexed evaluator article: 52 vs 53 index scores, $0.72 vs $3.26 task cost. Direct article retrieval failed; corroborating leaderboard checked.",
+    "scope": "Article read directly in the browser during revision after text-tool retrieval failed. Confirms one-point gap and $0.72 vs $3.26 task cost; names Intelligence Index v4.3.2. Absolute scores checked against S13.",
     "accessed": "2026-09-30"
   },
   {
@@ -113,7 +113,7 @@
     "url": "https://artificialanalysis.ai/leaderboards/models",
     "date": "Snapshot 2026-09-30",
     "kind": "Independent evaluator",
-    "scope": "Selected configurations, index v4.3.2. Dynamic page; score and cost observations saved in data.csv. Not market shares.",
+    "scope": "Selected configurations; dynamic leaderboard. Google best listed: Gemini 3.8 Flash high 41; Gemini 3.1 Pro Preview 30. Index version corroborated in S12. Observations in data.csv; not market shares.",
     "accessed": "2026-09-30"
   },
   {
@@ -231,6 +231,87 @@
     "date": "Observed 2026-09-30",
     "kind": "Company product positioning",
     "scope": "RouteLLM and agent-platform positioning. Relevant business context, not evidence of a private motive.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S27",
+    "title": "Chahat Sharma: Gemini checkpoint argument",
+    "url": "https://x.com/Chahatusharma/status/2105177754325119067",
+    "date": "2026-09-30",
+    "kind": "Public statement",
+    "scope": "Parent of S02, read in its thread. Checkpoint assertion is attributed, not independently verified.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S28",
+    "title": "David: the fast-follower argument",
+    "url": "https://x.com/D555555D/status/2105177746171400669",
+    "date": "2026-09-30",
+    "kind": "Public statement",
+    "scope": "Parent of S03. Four-month lag and nuclear analogy are the author’s argument, not measured facts.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S29",
+    "title": "Bindu Reddy: release-pace prediction",
+    "url": "https://x.com/bindureddy/status/2105198443857952866",
+    "date": "2026-09-30",
+    "kind": "Public statement",
+    "scope": "Reply to ArthurR, read directly in the browser. Predicts rapid launches but sets no 30/60/90-day windows; those are proposed by this audit.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S30",
+    "title": "Arena: Agent Arena overall leaderboard",
+    "url": "https://arena.ai/leaderboard/agent",
+    "date": "Table dated 2026-09-28; retrieved 2026-09-30",
+    "kind": "Independent evaluator",
+    "scope": "Net-improvement estimates and displayed intervals for Grok 4.7 xHigh, Grok 4.5, DeepSeek V4.1 Flash Max and GPT 6 Luna Max. Different configurations and harness from Artificial Analysis.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S31",
+    "title": "Arena: Agent Arena methodology",
+    "url": "https://arena.ai/blog/agent-arena-methodology",
+    "date": "2026-06-04",
+    "kind": "Evaluator methodology",
+    "scope": "Randomized model assignment; baseline-relative signal estimates, time weighting and 95% confidence intervals. Not raw success percentages.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S32",
+    "title": "NERC: 2025 Long-Term Reliability Assessment summary",
+    "url": "https://www.nerc.com/globalassets/our-work/assessments/ltra_infographic_2025.pdf",
+    "date": "2025 assessment; planning horizon 2026–2035",
+    "kind": "Grid reliability assessment",
+    "scope": "North American bulk-power planning risks involving data centres and other loads. Projections and delays, not a global cap on AI progress.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S33",
+    "title": "Stock Analysis: largest U.S.-listed companies",
+    "url": "https://stockanalysis.com/list/biggest-companies/",
+    "date": "Snapshot 2026-09-30",
+    "kind": "Public-market data snapshot",
+    "scope": "Nvidia 5.58T, Apple 4.93T, Alphabet 4.29T; sum 14.80T. NASDAQ/NYSE/NYSE American universe, not all private or worldwide companies. Dynamic values; no synchronized closing-price claim.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S34",
+    "title": "Alok Sharma: the published response",
+    "url": "https://x.com/AIokSharma/status/2105290573100007658",
+    "date": "2026-09-30 at 19:06 as displayed by X",
+    "kind": "Publication record",
+    "scope": "Original response read directly. It replies to the essay-sharing post within the original discussion. The displayed timestamp contains no explicit time-zone label; no UTC conversion is asserted.",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "S35",
+    "title": "Motley Fool: largest-company comparison reviewed",
+    "url": "https://www.fool.com/research/largest-companies-by-market-cap/",
+    "date": "Dynamic page retrieved 2026-09-30",
+    "kind": "Comparison checked and qualified",
+    "scope": "Editorial metrics carry a September 4 date while the table updates to September 30. Not used for the essay’s market-value arithmetic; S33 supplies a single identified snapshot.",
     "accessed": "2026-09-30"
   }
 ]
